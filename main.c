@@ -1,7 +1,6 @@
 #include"lcd.h"
 #include"keypad.h"
 #include"std_types.h"
-#include"gpio.h"
 #include"util/delay.h"
 int main(void){
 	volatile uint8 key,num1=0,num2=0,symbol=0,op;
