@@ -3,6 +3,7 @@
  * Simple Calculator
  *
  * Description: The output calculations from -3278 to 32767
+ * Download the zip file for the proteus simulation and the whole source code (the MCU is atmega16)
  *
  * Author: Ahmed Tamer
  *
